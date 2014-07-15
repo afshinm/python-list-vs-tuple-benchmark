@@ -17,4 +17,4 @@ And use following command for `tuple`:
 $ python tuple.py
 ```
 
-
+Read more here: http://afshinm.name/python-list-tuple-performance-benchmark
