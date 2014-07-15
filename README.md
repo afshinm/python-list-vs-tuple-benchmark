@@ -1,6 +1,8 @@
 list vs. tuple benchmark in Python
 ==============================
 
+A simple code to make a benchmark between `list` and `tuple` in Python.
+
 ## Execute it
 
 Issue following command for `list` benchmark:
